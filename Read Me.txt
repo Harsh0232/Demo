@@ -1,0 +1,3 @@
+Aim: To create a console application which will Import the data to excel file from sql-server and vice versa.
+Please refer attached mdf and ldf file of my sql database with this folder
+
